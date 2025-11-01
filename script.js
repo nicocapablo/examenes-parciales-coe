@@ -41,7 +41,7 @@ const preguntas = [
     {"texto": "Las virtudes cardinales son 4: fortaleza, habilidad, justicia y conocimiento.", "respuesta": False, "explicacion": "Falso. Son prudencia, justicia, fortaleza y templanza."},
     {"texto": "Solo con entusiasmo podemos conseguir ventajas competitivas sostenibles.", "respuesta": False, "explicacion": "Falso. Se necesita estrategia, innovación y recursos además de entusiasmo."},
     {"texto": "Es tan importante descubrir una idea de negocio como generar un producto mínimo viable o ponerlo en circulación.", "respuesta": True, "explicacion": "Verdadero. La validación práctica es clave en emprendimiento."},
-    {"texto": "El escape es un método de provocación de ideas que nos lleva a exagerar los atributos de un producto para hacerlo atractivo.", "respuesta": False, "explicacion": "Falso. El escape elimina restricciones o supuestos, no exagera atributos."}
+    {"texto": "El escape es un método de provocación de ideas que nos lleva a exagerar los atributos de un producto para hacerlo atractivo.", "respuesta": False, "explicacion": "Falso. El escape elimina restricciones o supuestos, no exagera atributos."},
     {"texto": "Las 4 formas de crear algo nuevo en una empresa son a través de innovar en producto, precio y placement.", "respuesta": False, "explicacion": "Falso. Las principales formas son innovar en producto, proceso, marketing y organización."},
     {"texto": "Introducir un nuevo producto en un mercado requiere estrategia, comunicación y persistencia.", "respuesta": True, "explicacion": "Verdadero. El lanzamiento de un producto exige planificación y constancia."},
     {"texto": "La propiedad intelectual sobre una marca se puede mantener eternamente.", "respuesta": True, "explicacion": "Verdadero. Las marcas pueden renovarse indefinidamente cada 10 años."},
@@ -73,7 +73,7 @@ const preguntas = [
     {"texto": "Los músicos que tienen música protegida por las leyes de protección individual tienen derecho a percibir unos ingresos como derecho compensatorio que se recauda a través de una tasa aplicada a los dispositivos de almacenamiento digital.", "respuesta": True, "explicacion": "Verdadero. Es la compensación por copia privada."},
     {"texto": "La innovación incremental se realiza a través de pequeñas modificaciones y mejoras en los productos o servicios que ofrece una organización.", "respuesta": True, "explicacion": "Verdadero. Busca perfeccionar lo existente sin romper con lo anterior."},
     {"texto": "Las empresas pueden declarar como activo las patentes que disponen y hacer constar su valoración en la empresa.", "respuesta": True, "explicacion": "Verdadero. Son activos intangibles valorables contablemente."},
-    {"texto": "Los textos legales no están protegidos por las leyes de protección intelectual.", "respuesta": True, "explicacion": "Verdadero. Son de dominio público y no se consideran obras creativas."}
+    {"texto": "Los textos legales no están protegidos por las leyes de protección intelectual.", "respuesta": True, "explicacion": "Verdadero. Son de dominio público y no se consideran obras creativas."},
     {"texto": "Los valores en un equipo de trabajo son imprescindibles para superar los momentos de crisis.", "respuesta": True, "explicacion": "Verdadero. Los valores compartidos cohesionan al equipo y facilitan superar dificultades."},
     {"texto": "El CANVAS es un gráfico visual de gestión estratégica que se usa para representar modelos de negocio.", "respuesta": True, "explicacion": "Verdadero. El Business Model Canvas representa la estructura y propuesta de valor del negocio."},
     {"texto": "En la herramienta CANVAS, el segmento de relación con clientes sirve para explicar qué tipo de publicidad hacemos.", "respuesta": False, "explicacion": "Falso. Describe cómo interactuamos con los clientes, no la publicidad."},
@@ -109,7 +109,7 @@ const preguntas = [
     {"texto": "Los valores en un equipo de trabajo son imprescindibles para superar los momentos de crisis.", "respuesta": True, "explicacion": "Verdadero. Refuerzan la cohesión y el compromiso en situaciones difíciles."},
     {"texto": "El canal de venta es un elemento fundamental en la creación del modelo de negocio de una startup.", "respuesta": True, "explicacion": "Verdadero. Define el medio por el cual llega el producto al cliente."},
     {"texto": "Las variables psicográficas más utilizadas en la segmentación de mercados son el nivel de ingresos, el empleo y el nivel de estudios de las personas.", "respuesta": False, "explicacion": "Falso. Esas son variables demográficas; las psicográficas se relacionan con estilos de vida y valores."},
-    {"texto": "Para la segmentación de mercados usamos las variables psicográficas, que entre otras son: nivel de ingresos, profesión, religión y nivel de educación.", "respuesta": False, "explicacion": "Falso. Esas variables son demográficas y socioculturales, no psicográficas."}
+    {"texto": "Para la segmentación de mercados usamos las variables psicográficas, que entre otras son: nivel de ingresos, profesión, religión y nivel de educación.", "respuesta": False, "explicacion": "Falso. Esas variables son demográficas y socioculturales, no psicográficas."},
     {"texto": "El mapa de posicionamiento es una herramienta que permite visualizar los elementos diferenciadores de un producto y la posición que ocupan los productos competidores.", "respuesta": True, "explicacion": "Verdadero. Permite comparar percepciones de los productos frente a la competencia."},
     {"texto": "¿Qué es una patente? Es una ley que protege un producto.", "respuesta": False, "explicacion": "Falso. Una patente es un derecho exclusivo sobre una invención, no una ley."},
     {"texto": "Según la pirámide de Maslow, las necesidades sociales o de prestigio tienen que ver con la pertenencia a grupos u organizaciones.", "respuesta": False, "explicacion": "Falso. Las de pertenencia son sociales; las de prestigio se relacionan con reconocimiento."},
@@ -145,7 +145,7 @@ const preguntas = [
     {"texto": "Los precios se establecen en función del volumen de oferta y demanda.", "respuesta": True, "explicacion": "Verdadero. Es la base de la formación de precios en economía."},
     {"texto": "Un monopsonio limitado se da en mercados con pocos ofertantes y un solo comprador.", "respuesta": True, "explicacion": "Verdadero. Es un mercado con demanda concentrada en un solo comprador."},
     {"texto": "El monopolio bilateral ocurre cuando el mercado tiene poca oferta y poca demanda.", "respuesta": False, "explicacion": "Falso. En el monopolio bilateral hay un vendedor y un comprador únicos."},
-    {"texto": "Un monopsomio es cuando hay un ofertante y mucha demanda.", "respuesta": False, "explicacion": "Falso. Es al revés: un solo comprador y muchos vendedores."}
+    {"texto": "Un monopsomio es cuando hay un ofertante y mucha demanda.", "respuesta": False, "explicacion": "Falso. Es al revés: un solo comprador y muchos vendedores."},
     {"texto": "El PMV Mago de Oz consiste en hacer creer a los clientes que dispongo de toda la infraestructura de un servicio, sin que la haya desarrollado pero el cliente recibe el servicio.", "respuesta": True, "explicacion": "Verdadero. Es un tipo de producto mínimo viable que simula el servicio real para validar el interés."},
     {"texto": "El PMV Mago de Oz consiste en hacer creer a los clientes que voy a prestar un servicio, sin que este realmente exista. Si el interés es alto, se desarrolla el producto.", "respuesta": False, "explicacion": "Falso. En el PMV Mago de Oz el servicio se presta de forma manual, aunque parezca automatizado."},
     {"texto": "El PMV maqueta me sirve para que los clientes puedan interactuar con él y su feedback sea más efectivo.", "respuesta": True, "explicacion": "Verdadero. Permite observar cómo el cliente usa el producto y recoger mejoras."},
@@ -162,7 +162,7 @@ const preguntas = [
     {"texto": "Dropbox es un buen ejemplo de crowdfunding (PMV).", "respuesta": False, "explicacion": "Falso. Dropbox validó su idea con un vídeo explicativo, no mediante financiación colectiva."},
     {"texto": "Zappos es un buen ejemplo de crowdfunding (PMV).", "respuesta": False, "explicacion": "Falso. Zappos validó su negocio vendiendo online sin stock, un PMV clásico, no crowdfunding."},
     {"texto": "Peeble fue un buen ejemplo de Mago de Oz (PMV).", "respuesta": False, "explicacion": "Falso. Pebble fue un ejemplo de crowdfunding exitoso en Kickstarter."},
-    {"texto": "Tropicfeel fue un buen ejemplo de crowdfunding (PMV).", "respuesta": True, "explicacion": "Verdadero. Financiaron su producto inicial a través de una campaña de micromecenazgo."}
+    {"texto": "Tropicfeel fue un buen ejemplo de crowdfunding (PMV).", "respuesta": True, "explicacion": "Verdadero. Financiaron su producto inicial a través de una campaña de micromecenazgo."},
     {"texto": "Es aconsejable dejar de pivotar una empresa cuando la hoja de ruta está validada y tenemos un grupo de pedidos reiterativos.", "respuesta": True, "explicacion": "Verdadero. Tener ventas recurrentes indica que el modelo funciona y puede estabilizarse."},
     {"texto": "Es aconsejable dejar de pivotar una empresa cuando el modelo económico se entiende y tiene sentido para el cliente.", "respuesta": True, "explicacion": "Verdadero. Si el cliente comprende y valora la propuesta, se ha alcanzado la validación."},
     {"texto": "Es aconsejable dejar de pivotar una empresa antes de tener un PMV que mejore el modelo de negocio.", "respuesta": False, "explicacion": "Falso. No se debe parar de pivotar antes de validar con un producto mínimo viable."},
@@ -256,6 +256,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("btnV").onclick = () => responder(true);
   document.getElementById("btnF").onclick = () => responder(false);
 });
+
 
 
 
